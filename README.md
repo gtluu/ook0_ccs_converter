@@ -1,6 +1,6 @@
 # Convert 1/K0 Values to CCS Values
 
-Script that uses Bruker's TDF-SDK 2.8.7.1 API to convert 1/K0 values to CCS values given an m/z value and ion charge are provided.
+Script that uses Bruker's TDF-SDK 2.8.7.1 API to convert 1/K0 values to CCS values given an m/z value and ion charge are provided. Note that this is only compatible with Windows or Linux. mac OS is unsupported by TDF-SDK.
 
 ## Usage
 
